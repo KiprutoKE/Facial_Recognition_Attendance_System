@@ -44,7 +44,7 @@ A Python-based attendance system that uses facial recognition technology to auto
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/KiprutoKE/Facial_Recognition_Attendance_System>
    cd Facial_Recognition_Attendance_System
    ```
 
